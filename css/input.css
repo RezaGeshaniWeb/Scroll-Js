@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .fixed-top {
+        @apply bg-black bg-opacity-80 border border-slate-500 top-7 w-[60%] z-50;
+    }
+
+    ::-webkit-scrollbar {
+        width: 8px;
+        background-color: #09070a;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: rgba(30, 30, 31, 0.525);
+    }
+
+    .shadow-myinset {
+        box-shadow: inset 30px 150px 50px #09070a;
+    }
+    
+    .shadow-myinset2 {
+        box-shadow: inset 100px 150px 50px #09070ab6;
+    }
+}
+
+@keyframes anime1 {
+    from {
+        transform: translateY(-60px);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes anime2 {
+    from {
+        transform: translateY(60px);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
