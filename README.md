@@ -6,7 +6,7 @@
 
 - Created - 2025-01-21
 
-- Technologies Used - Html , Css , TailwindCSS , Javascript
+- Technologies Used - Html , TailwindCSS , Javascript
 
 - Role - Frontend
 
@@ -14,6 +14,5 @@
 
 
 ![Alt text](https://github.com/user-attachments/assets/e77e9bec-9df5-430b-af5c-62fff78f9465)
-
 
 ![Alt text](https://github.com/user-attachments/assets/63f8458f-9c36-40f9-93e2-5b2215b17fb6)
